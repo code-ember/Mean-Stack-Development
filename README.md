@@ -25,3 +25,6 @@ By the end of this Angular advanced tutorial, you will learn about the mean stac
 `./node_modules/.bin/lb-sdk server/server.js ./client/sdk`
 
 - *Read the tutorial to see how to use this project (https://angular-templates.io/tutorials/about/learn-how-to-build-a-mean-stack-application)*
+
+
+## CS-470
